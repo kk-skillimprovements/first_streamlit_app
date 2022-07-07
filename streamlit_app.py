@@ -4,8 +4,8 @@ import streamlit
 streamlit.title('May Parents New Healthy Dinner')
 
 
-streamlit.title('BreakFast Menu')
+streamlit.header('BreakFast Menu')
 
-streamlit.title('Omega 3 & blueberry oatmeal')
-streamlit.title('Kale , Spinach & Rocket smoothie')
+streamlit.text('Omega 3 & blueberry oatmeal')
+streamlit.text('Kale , Spinach & Rocket smoothie')
 
