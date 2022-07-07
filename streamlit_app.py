@@ -11,5 +11,5 @@ streamlit.text(' 🥗 Kale , Spinach & Rocket smoothie')
 streamlit.text(' 🥑🍞 Avacado Toast ')
 
 
-
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
 
